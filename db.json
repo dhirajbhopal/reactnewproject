@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": 4,
+      "name": "Sumit Pandey",
+      "rollno": 4,
+      "Add": "Guna"
+    },
+    {
+      "id": 5,
+      "name": "Mohan Kumar",
+      "rollno": "506",
+      "Add": "Patna New"
+    },
+    {
+      "name": "Dhiraj Patel",
+      "rollno": "102",
+      "Add": "Bhopal",
+      "id": 6
+    },
+    {
+      "name": "Dhiraj",
+      "rollno": "709",
+      "Add": "Dehri",
+      "id": 10
+    },
+    {
+      "name": "Raunka Patel",
+      "rollno": "056",
+      "Add": "Kanker",
+      "id": 11
+    },
+    {
+      "name": "Nandita Patel",
+      "rollno": "9008",
+      "Add": "Dehri",
+      "id": 12
+    },
+    {
+      "name": "Pari Patel",
+      "rollno": "608",
+      "Add": "Patna",
+      "id": 14
+    }
+  ],
+  "Data1": [
+    {
+      "id": 1,
+      "name": "Dhiraj",
+      "rollno": 1,
+      "Add": "Bhopal"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "rollno": 2,
+      "Add": "Indore"
+    },
+    {
+      "id": 3,
+      "name": "Sohna",
+      "rollno": 3,
+      "Add": "Jabalpur"
+    },
+    {
+      "id": 4,
+      "name": "Sumit",
+      "rollno": 4,
+      "Add": "Guna"
+    },
+    {
+      "id": 5,
+      "name": "Mohan",
+      "rollno": 5,
+      "Add": "Satan"
+    },
+    {
+      "id": 6,
+      "name": "Monu",
+      "rollno": 6,
+      "Add": "jabalpur"
+    }
+  ]
+}
